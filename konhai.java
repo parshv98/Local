@@ -1,0 +1,7 @@
+package localtau;
+
+public class konhai {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+}
