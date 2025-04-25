@@ -1,5 +1,3 @@
-
-
 public class jadugar {
     public static void main(String[] args) {
         System.out.println("kon hai ya java");
@@ -9,3 +7,4 @@ public class jadugar {
         System.out.println("hello");
     }
 }
+
